@@ -2,9 +2,15 @@
   "name": "braddoran-ssh",
   "version": "0.1.0",
   "author": "Brad L Doran <brad.l.doran@gmail.com>",
+<<<<<<< HEAD
   "summary": "This module manages ssh.",
   "license": "Apache-2.0",
   "source": "https://github.com/Digran/puppet-ssh.git",
+=======
+  "summary": "This module will manage ssh.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Digran/puppet-ssh",
+>>>>>>> 5c0cb322323c4f309ab77bded6dfa6db8df841a3
   "project_page": "https://github.com/Digran/puppet-ssh",
   "issues_url": "https://github.com/Digran/puppet-ssh/issues",
   "dependencies": [
